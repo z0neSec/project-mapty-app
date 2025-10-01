@@ -46,9 +46,6 @@ npm start
 ```
 5. Open the app in your browser by visiting http://localhost:8080.
 
-## Contributing
-If you find a bug or would like to contribute to the development of the Mapty App, you can submit an issue or a pull request on the project's GitHub page at https://github.com/Andrew-Tsegaye/project-mapty-app.
-
 ## License
 The Mapty App is open source software released under the MIT license. Feel free to use, modify, and distribute it as you see fit.
 
